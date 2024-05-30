@@ -1,2 +1,2 @@
 # Book_Sale_project_using_bootsrap
- book_sale_project_website_using_html_and_boostrap
+ Book sale project website using html, javascript and boostrap
